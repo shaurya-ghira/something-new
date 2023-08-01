@@ -1,3 +1,3 @@
 #Demo
 
-I'm writing all this to just understand git better.
+I'm writing all of this to just understand git better.
